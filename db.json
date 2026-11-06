@@ -1,0 +1,5093 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Men's Clothing",
+      "slug": "mens-clothing",
+      "image": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "2",
+      "name": "Women's Clothing",
+      "slug": "womens-clothing",
+      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "3",
+      "name": "Jewelry",
+      "slug": "jewelry",
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "4",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "5",
+      "name": "Footwear",
+      "slug": "footwear",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "6",
+      "name": "Bags & Accessories",
+      "slug": "bags-accessories",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "7",
+      "name": "Beauty & Personal Care",
+      "slug": "beauty-personal-care",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "8",
+      "name": "Home & Living",
+      "slug": "home-living",
+      "image": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Classic Oxford Shirt",
+      "category": "Men's Clothing",
+      "subCategory": "Shirts",
+      "brand": "North & Co.",
+      "price": 164.69,
+      "oldPrice": 193.75,
+      "discount": 15,
+      "rating": 3.6,
+      "reviews": 207,
+      "stock": 18,
+      "description": "Classic Oxford Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "shirts",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Premium Cotton T-Shirt",
+      "category": "Men's Clothing",
+      "subCategory": "T-Shirts",
+      "brand": "Aster",
+      "price": 42.2,
+      "oldPrice": 49.65,
+      "discount": 15,
+      "rating": 4.7,
+      "reviews": 522,
+      "stock": 36,
+      "description": "Premium Cotton T-Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "t-shirts",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Slim Fit Denim Jeans",
+      "category": "Men's Clothing",
+      "subCategory": "Jeans",
+      "brand": "Aster",
+      "price": 148.49,
+      "oldPrice": 185.61,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 46,
+      "stock": 8,
+      "description": "Slim Fit Denim Jeans designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1542272604-780c36856d64?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-780c36856d64?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "jeans",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Lightweight Bomber Jacket",
+      "category": "Men's Clothing",
+      "subCategory": "Jackets",
+      "brand": "North & Co.",
+      "price": 80.76,
+      "oldPrice": 115.37,
+      "discount": 30,
+      "rating": 4.1,
+      "reviews": 145,
+      "stock": 28,
+      "description": "Lightweight Bomber Jacket designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "jackets",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Casual Linen Shirt",
+      "category": "Men's Clothing",
+      "subCategory": "Shirts",
+      "brand": "Aster",
+      "price": 125.18,
+      "oldPrice": 156.47,
+      "discount": 20,
+      "rating": 4.9,
+      "reviews": 37,
+      "stock": 71,
+      "description": "Casual Linen Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "shirts",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Regular Fit Polo",
+      "category": "Men's Clothing",
+      "subCategory": "T-Shirts",
+      "brand": "Vivid",
+      "price": 226.04,
+      "oldPrice": 282.55,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 64,
+      "stock": 75,
+      "description": "Regular Fit Polo designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1625910513413-522180425c34?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1625910513413-522180425c34?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "t-shirts",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Relaxed Cargo Trousers",
+      "category": "Men's Clothing",
+      "subCategory": "Trousers",
+      "brand": "Aster",
+      "price": 121.61,
+      "oldPrice": 143.07,
+      "discount": 15,
+      "rating": 3.6,
+      "reviews": 463,
+      "stock": 59,
+      "description": "Relaxed Cargo Trousers designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "trousers",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Classic Chino Pants",
+      "category": "Men's Clothing",
+      "subCategory": "Trousers",
+      "brand": "UrbanStyle",
+      "price": 64.49,
+      "oldPrice": 71.66,
+      "discount": 10,
+      "rating": 4,
+      "reviews": 448,
+      "stock": 27,
+      "description": "Classic Chino Pants designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "trousers",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Denim Overshirt",
+      "category": "Men's Clothing",
+      "subCategory": "Jackets",
+      "brand": "HomeCraft",
+      "price": 79.67,
+      "oldPrice": 93.73,
+      "discount": 15,
+      "rating": 3.5,
+      "reviews": 28,
+      "stock": 49,
+      "description": "Denim Overshirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "jackets",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Formal Dress Shirt",
+      "category": "Men's Clothing",
+      "subCategory": "Shirts",
+      "brand": "Aster",
+      "price": 278.31,
+      "oldPrice": 371.08,
+      "discount": 25,
+      "rating": 3.7,
+      "reviews": 225,
+      "stock": 65,
+      "description": "Formal Dress Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "shirts",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Graphic Crewneck Sweatshirt",
+      "category": "Men's Clothing",
+      "subCategory": "Jackets",
+      "brand": "UrbanStyle",
+      "price": 89.99,
+      "oldPrice": 112.49,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 112,
+      "stock": 45,
+      "description": "Graphic Crewneck Sweatshirt designed for everyday style.",
+      "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "jackets",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Casual Hooded Jacket",
+      "category": "Men's Clothing",
+      "subCategory": "Jackets",
+      "brand": "Nova",
+      "price": 135.5,
+      "oldPrice": 169.38,
+      "discount": 20,
+      "rating": 4.2,
+      "reviews": 89,
+      "stock": 31,
+      "description": "Casual Hooded Jacket built for outdoor comfort.",
+      "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "jackets",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Wool Blend Overcoat",
+      "category": "Men's Clothing",
+      "subCategory": "Jackets",
+      "brand": "LuxeLine",
+      "price": 240,
+      "oldPrice": 300,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 156,
+      "stock": 19,
+      "description": "Elegant wool blend coat for chilly weather.",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "jackets",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Striped Casual Tee",
+      "category": "Men's Clothing",
+      "subCategory": "T-Shirts",
+      "brand": "Vivid",
+      "price": 34.99,
+      "oldPrice": 43.74,
+      "discount": 20,
+      "rating": 4.1,
+      "reviews": 98,
+      "stock": 62,
+      "description": "Lightweight cotton t-shirt with classic stripes.",
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "t-shirts",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Tailored Suit Trousers",
+      "category": "Men's Clothing",
+      "subCategory": "Trousers",
+      "brand": "North & Co.",
+      "price": 110,
+      "oldPrice": 137.5,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 73,
+      "stock": 24,
+      "description": "Sharp tailored trousers for formal settings.",
+      "image": "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "trousers",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Plaid Flannel Shirt",
+      "category": "Men's Clothing",
+      "subCategory": "Shirts",
+      "brand": "HomeCraft",
+      "price": 65,
+      "oldPrice": 81.25,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 210,
+      "stock": 40,
+      "description": "Warm and comfortable plaid flannel shirt.",
+      "image": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "shirts",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Fleece Pullover Hoodie",
+      "category": "Men's Clothing",
+      "subCategory": "Jackets",
+      "brand": "Aster",
+      "price": 75,
+      "oldPrice": 93.75,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 340,
+      "stock": 55,
+      "description": "Soft fleece interior hoodie for winter cozying.",
+      "image": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "jackets",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Slim Fit Trench Coat",
+      "category": "Men's Clothing",
+      "subCategory": "Jackets",
+      "brand": "LuxeLine",
+      "price": 210,
+      "oldPrice": 262.5,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 67,
+      "stock": 15,
+      "description": "Double-breasted classic trench coat.",
+      "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "jackets",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Casual Denim Shorts",
+      "category": "Men's Clothing",
+      "subCategory": "Jeans",
+      "brand": "Nova",
+      "price": 48,
+      "oldPrice": 60,
+      "discount": 20,
+      "rating": 4,
+      "reviews": 88,
+      "stock": 50,
+      "description": "Comfortable summer denim shorts.",
+      "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "jeans",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Knit Cotton Cardigan",
+      "category": "Men's Clothing",
+      "subCategory": "Jackets",
+      "brand": "UrbanStyle",
+      "price": 95,
+      "oldPrice": 118.75,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 104,
+      "stock": 29,
+      "description": "Button-front textured cardigan sweater.",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "jackets",
+        "men's clothing"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Floral Midi Dress",
+      "category": "Women's Clothing",
+      "subCategory": "Dresses",
+      "brand": "Aster",
+      "price": 220.57,
+      "oldPrice": 315.1,
+      "discount": 30,
+      "rating": 3.7,
+      "reviews": 508,
+      "stock": 38,
+      "description": "Floral Midi Dress designed for everyday use with a modern finish.",
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "dresses",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Satin Evening Dress",
+      "category": "Women's Clothing",
+      "subCategory": "Dresses",
+      "brand": "Vivid",
+      "price": 200.09,
+      "oldPrice": 250.11,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 598,
+      "stock": 50,
+      "description": "Satin Evening Dress designed for modern evening wear.",
+      "image": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "dresses",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Ribbed Knit Top",
+      "category": "Women's Clothing",
+      "subCategory": "Tops",
+      "brand": "Nova",
+      "price": 46.89,
+      "oldPrice": 58.61,
+      "discount": 20,
+      "rating": 3.6,
+      "reviews": 269,
+      "stock": 38,
+      "description": "Ribbed Knit Top designed for effortless styling.",
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "tops",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "High Waist Jeans",
+      "category": "Women's Clothing",
+      "subCategory": "Jeans",
+      "brand": "LuxeLine",
+      "price": 236.39,
+      "oldPrice": 315.19,
+      "discount": 25,
+      "rating": 4.3,
+      "reviews": 181,
+      "stock": 71,
+      "description": "High Waist Jeans designed for a flattering silhouette.",
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "jeans",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Pleated Midi Skirt",
+      "category": "Women's Clothing",
+      "subCategory": "Skirts",
+      "brand": "North & Co.",
+      "price": 237.81,
+      "oldPrice": 264.23,
+      "discount": 10,
+      "rating": 4.4,
+      "reviews": 384,
+      "stock": 37,
+      "description": "Pleated Midi Skirt offering fluid movement.",
+      "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "skirts",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Relaxed Cotton Top",
+      "category": "Women's Clothing",
+      "subCategory": "Tops",
+      "brand": "HomeCraft",
+      "price": 258.68,
+      "oldPrice": 323.35,
+      "discount": 20,
+      "rating": 3.4,
+      "reviews": 379,
+      "stock": 25,
+      "description": "Breathable cotton top for casual days.",
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "tops",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Elegant Wrap Dress",
+      "category": "Women's Clothing",
+      "subCategory": "Dresses",
+      "brand": "LuxeLine",
+      "price": 51.61,
+      "oldPrice": 60.72,
+      "discount": 15,
+      "rating": 3.9,
+      "reviews": 664,
+      "stock": 61,
+      "description": "Elegant Wrap Dress tailored for modern versatile look.",
+      "image": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "dresses",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Wide Leg Trousers",
+      "category": "Women's Clothing",
+      "subCategory": "Trousers",
+      "brand": "UrbanStyle",
+      "price": 260.03,
+      "oldPrice": 325.04,
+      "discount": 20,
+      "rating": 3.9,
+      "reviews": 639,
+      "stock": 56,
+      "description": "Chic wide leg trousers with high waistband.",
+      "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "trousers",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Casual Denim Jacket",
+      "category": "Women's Clothing",
+      "subCategory": "Jackets",
+      "brand": "LuxeLine",
+      "price": 56.59,
+      "oldPrice": 80.84,
+      "discount": 30,
+      "rating": 4.3,
+      "reviews": 569,
+      "stock": 18,
+      "description": "Classic blue washed denim jacket.",
+      "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "jackets",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Printed Summer Dress",
+      "category": "Women's Clothing",
+      "subCategory": "Dresses",
+      "brand": "Nova",
+      "price": 188.63,
+      "oldPrice": 235.79,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 423,
+      "stock": 36,
+      "description": "Vibrant sundress for summer outings.",
+      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "dresses",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Tailored Blazer Jacket",
+      "category": "Women's Clothing",
+      "subCategory": "Jackets",
+      "brand": "North & Co.",
+      "price": 140,
+      "oldPrice": 175,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 115,
+      "stock": 22,
+      "description": "Sharp structure blazer for office or evening wear.",
+      "image": "https://images.unsplash.com/photo-1584273143981-41c073dfe8f8?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584273143981-41c073dfe8f8?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "jackets",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Oversized Knit Sweater",
+      "category": "Women's Clothing",
+      "subCategory": "Tops",
+      "brand": "Vivid",
+      "price": 78,
+      "oldPrice": 97.5,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 198,
+      "stock": 45,
+      "description": "Cozy oversized pullover knit sweater.",
+      "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "tops",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Boho Maxi Skirt",
+      "category": "Women's Clothing",
+      "subCategory": "Skirts",
+      "brand": "Aster",
+      "price": 68,
+      "oldPrice": 85,
+      "discount": 20,
+      "rating": 4.2,
+      "reviews": 76,
+      "stock": 30,
+      "description": "Flowy printed bohemian maxi skirt.",
+      "image": "https://images.unsplash.com/photo-1582142306909-195724d33ffc?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1582142306909-195724d33ffc?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "skirts",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Sleeveless Silk Camisole",
+      "category": "Women's Clothing",
+      "subCategory": "Tops",
+      "brand": "LuxeLine",
+      "price": 52,
+      "oldPrice": 65,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 142,
+      "stock": 27,
+      "description": "Delicate silk cami top with lace trim.",
+      "image": "https://images.unsplash.com/photo-1604014237800-1c9102c219da?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1604014237800-1c9102c219da?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "tops",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Cropped Puffer Coat",
+      "category": "Women's Clothing",
+      "subCategory": "Jackets",
+      "brand": "Nova",
+      "price": 125,
+      "oldPrice": 156.25,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 210,
+      "stock": 18,
+      "description": "Insulated cropped puffer jacket for winter styling.",
+      "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "jackets",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "36",
+      "title": "Linen Button-Down Shirt",
+      "category": "Women's Clothing",
+      "subCategory": "Tops",
+      "brand": "HomeCraft",
+      "price": 62,
+      "oldPrice": 77.5,
+      "discount": 20,
+      "rating": 4.1,
+      "reviews": 85,
+      "stock": 39,
+      "description": "Classic relaxed linen long sleeve blouse.",
+      "image": "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "tops",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Athletic Yoga Leggings",
+      "category": "Women's Clothing",
+      "subCategory": "Trousers",
+      "brand": "UrbanStyle",
+      "price": 45,
+      "oldPrice": 56.25,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 620,
+      "stock": 80,
+      "description": "High-stretch moisture-wicking active leggings.",
+      "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "trousers",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "38",
+      "title": "A-Line Cocktail Dress",
+      "category": "Women's Clothing",
+      "subCategory": "Dresses",
+      "brand": "LuxeLine",
+      "price": 185,
+      "oldPrice": 231.25,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 103,
+      "stock": 14,
+      "description": "Sophisticated A-line cut dress for events.",
+      "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "dresses",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "39",
+      "title": "Denim Overall Shorts",
+      "category": "Women's Clothing",
+      "subCategory": "Jeans",
+      "brand": "Vivid",
+      "price": 55,
+      "oldPrice": 68.75,
+      "discount": 20,
+      "rating": 4,
+      "reviews": 49,
+      "stock": 25,
+      "description": "Playful vintage denim dungaree shorts.",
+      "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "jeans",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "40",
+      "title": "Cashmere Turtleneck Sweater",
+      "category": "Women's Clothing",
+      "subCategory": "Tops",
+      "brand": "North & Co.",
+      "price": 195,
+      "oldPrice": 243.75,
+      "discount": 20,
+      "rating": 4.9,
+      "reviews": 88,
+      "stock": 12,
+      "description": "Ultra-soft 100% cashmere knit turtleneck.",
+      "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "tops",
+        "women's clothing"
+      ]
+    },
+    {
+      "id": "41",
+      "title": "Gold Plated Necklace",
+      "category": "Jewelry",
+      "subCategory": "Necklaces",
+      "brand": "Aster",
+      "price": 235.75,
+      "oldPrice": 294.69,
+      "discount": 20,
+      "rating": 3.9,
+      "reviews": 318,
+      "stock": 10,
+      "description": "Gold Plated Necklace designed for elegant everyday wear.",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "necklaces",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "42",
+      "title": "Crystal Drop Earrings",
+      "category": "Jewelry",
+      "subCategory": "Earrings",
+      "brand": "Vivid",
+      "price": 39.12,
+      "oldPrice": 46.02,
+      "discount": 15,
+      "rating": 4.6,
+      "reviews": 521,
+      "stock": 23,
+      "description": "Crystal Drop Earrings with subtle shine.",
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "earrings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "43",
+      "title": "Minimal Gold Ring",
+      "category": "Jewelry",
+      "subCategory": "Rings",
+      "brand": "Nova",
+      "price": 326.27,
+      "oldPrice": 466.1,
+      "discount": 30,
+      "rating": 4.1,
+      "reviews": 370,
+      "stock": 17,
+      "description": "Minimal Gold Ring with timeless elegance.",
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "rings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "44",
+      "title": "Pearl Bracelet",
+      "category": "Jewelry",
+      "subCategory": "Bracelets",
+      "brand": "Vivid",
+      "price": 258.42,
+      "oldPrice": 344.56,
+      "discount": 25,
+      "rating": 4.1,
+      "reviews": 135,
+      "stock": 80,
+      "description": "Lustrous freshwater pearl chain bracelet.",
+      "image": "https://images.unsplash.com/photo-1611591475281-8d9954a2be25?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1611591475281-8d9954a2be25?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": true,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "bracelets",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "45",
+      "title": "Halo Pendant Necklace",
+      "category": "Jewelry",
+      "subCategory": "Necklaces",
+      "brand": "Vivid",
+      "price": 320.73,
+      "oldPrice": 377.33,
+      "discount": 15,
+      "rating": 4.6,
+      "reviews": 35,
+      "stock": 30,
+      "description": "Sparkling solitaire pendant with halo ring.",
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "necklaces",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Classic Hoop Earrings",
+      "category": "Jewelry",
+      "subCategory": "Earrings",
+      "brand": "Nova",
+      "price": 306.17,
+      "oldPrice": 437.39,
+      "discount": 30,
+      "rating": 3.6,
+      "reviews": 580,
+      "stock": 66,
+      "description": "Versatile lightweight sterling gold hoops.",
+      "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "earrings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "47",
+      "title": "Silver Charm Bracelet",
+      "category": "Jewelry",
+      "subCategory": "Bracelets",
+      "brand": "Vivid",
+      "price": 213.43,
+      "oldPrice": 266.79,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 449,
+      "stock": 40,
+      "description": "Personalized silver links charm bracelet.",
+      "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "bracelets",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "48",
+      "title": "Rose Gold Ring",
+      "category": "Jewelry",
+      "subCategory": "Rings",
+      "brand": "UrbanStyle",
+      "price": 270.68,
+      "oldPrice": 338.35,
+      "discount": 20,
+      "rating": 3.7,
+      "reviews": 459,
+      "stock": 25,
+      "description": "Delicate rose gold textured band ring.",
+      "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "rings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "49",
+      "title": "Diamond Stud Earrings",
+      "category": "Jewelry",
+      "subCategory": "Earrings",
+      "brand": "LuxeLine",
+      "price": 450,
+      "oldPrice": 562.5,
+      "discount": 20,
+      "rating": 4.9,
+      "reviews": 210,
+      "stock": 15,
+      "description": "Lab-grown diamond single solitaire studs.",
+      "image": "https://images.unsplash.com/photo-1588444839799-eb00f490465c?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1588444839799-eb00f490465c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "earrings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "50",
+      "title": "Chunky Gold Chain",
+      "category": "Jewelry",
+      "subCategory": "Necklaces",
+      "brand": "Aster",
+      "price": 180,
+      "oldPrice": 225,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 128,
+      "stock": 33,
+      "description": "Bold curb chain necklace in 18k gold plating.",
+      "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "necklaces",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "51",
+      "title": "Emerald Cut Gemstone Ring",
+      "category": "Jewelry",
+      "subCategory": "Rings",
+      "brand": "LuxeLine",
+      "price": 290,
+      "oldPrice": 362.5,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 92,
+      "stock": 11,
+      "description": "Vintage emerald green stone statement ring.",
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "rings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "52",
+      "title": "Beaded Boho Anklet",
+      "category": "Jewelry",
+      "subCategory": "Bracelets",
+      "brand": "HomeCraft",
+      "price": 25,
+      "oldPrice": 31.25,
+      "discount": 20,
+      "rating": 4.1,
+      "reviews": 64,
+      "stock": 50,
+      "description": "Handmade beaded beach anklet chain.",
+      "image": "https://images.unsplash.com/photo-1611591475281-8d9954a2be25?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1611591475281-8d9954a2be25?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "bracelets",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "53",
+      "title": "Layered Coin Pendant",
+      "category": "Jewelry",
+      "subCategory": "Necklaces",
+      "brand": "North & Co.",
+      "price": 145,
+      "oldPrice": 181.25,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 119,
+      "stock": 28,
+      "description": "Double chain necklace featuring medallion coin.",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "necklaces",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "54",
+      "title": "Silver Cuff Bangle",
+      "category": "Jewelry",
+      "subCategory": "Bracelets",
+      "brand": "Nova",
+      "price": 160,
+      "oldPrice": 200,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 84,
+      "stock": 20,
+      "description": "Polished open-end silver wrist cuff.",
+      "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "bracelets",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "55",
+      "title": "Sapphire Drop Earrings",
+      "category": "Jewelry",
+      "subCategory": "Earrings",
+      "brand": "LuxeLine",
+      "price": 280,
+      "oldPrice": 350,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 41,
+      "stock": 9,
+      "description": "Deep blue sapphire teardrop dangle earrings.",
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "earrings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "56",
+      "title": "Stackable Midi Rings Set",
+      "category": "Jewelry",
+      "subCategory": "Rings",
+      "brand": "Vivid",
+      "price": 45,
+      "oldPrice": 56.25,
+      "discount": 20,
+      "rating": 4.2,
+      "reviews": 175,
+      "stock": 60,
+      "description": "Set of 5 thin textured band rings.",
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "rings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "57",
+      "title": "Choker Pearl Necklace",
+      "category": "Jewelry",
+      "subCategory": "Necklaces",
+      "brand": "North & Co.",
+      "price": 210,
+      "oldPrice": 262.5,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 53,
+      "stock": 16,
+      "description": "Elegant close-fitting pearl choker.",
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "necklaces",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "58",
+      "title": "Geometric Wire Earrings",
+      "category": "Jewelry",
+      "subCategory": "Earrings",
+      "brand": "UrbanStyle",
+      "price": 38,
+      "oldPrice": 47.5,
+      "discount": 20,
+      "rating": 3.9,
+      "reviews": 32,
+      "stock": 42,
+      "description": "Modern architectural wire loop earrings.",
+      "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "earrings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "59",
+      "title": "Engraved Men's Signet Ring",
+      "category": "Jewelry",
+      "subCategory": "Rings",
+      "brand": "HomeCraft",
+      "price": 135,
+      "oldPrice": 168.75,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 89,
+      "stock": 23,
+      "description": "Solid brushed steel flat top signet ring.",
+      "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "rings",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "60",
+      "title": "Crystal Tennis Bracelet",
+      "category": "Jewelry",
+      "subCategory": "Bracelets",
+      "brand": "LuxeLine",
+      "price": 260,
+      "oldPrice": 325,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 162,
+      "stock": 14,
+      "description": "Classic continuous line diamond-cut bracelet.",
+      "image": "https://images.unsplash.com/photo-1611591475281-8d9954a2be25?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1611591475281-8d9954a2be25?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "bracelets",
+        "jewelry"
+      ]
+    },
+    {
+      "id": "61",
+      "title": "Nova X Smartphone",
+      "category": "Electronics",
+      "subCategory": "Smartphones",
+      "brand": "UrbanStyle",
+      "price": 844.15,
+      "oldPrice": 1055.19,
+      "discount": 20,
+      "rating": 3.5,
+      "reviews": 396,
+      "stock": 59,
+      "description": "High performance display smartphone.",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "smartphones",
+        "electronics"
+      ]
+    },
+    {
+      "id": "62",
+      "title": "ProBook 14 Laptop",
+      "category": "Electronics",
+      "subCategory": "Laptops",
+      "brand": "UrbanStyle",
+      "price": 104.11,
+      "oldPrice": 138.81,
+      "discount": 25,
+      "rating": 3.8,
+      "reviews": 284,
+      "stock": 17,
+      "description": "Lightweight laptop built for multi-tasking.",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "laptops",
+        "electronics"
+      ]
+    },
+    {
+      "id": "63",
+      "title": "UltraTab 11 Tablet",
+      "category": "Electronics",
+      "subCategory": "Tablets",
+      "brand": "North & Co.",
+      "price": 1206.89,
+      "oldPrice": 1340.99,
+      "discount": 10,
+      "rating": 4.6,
+      "reviews": 580,
+      "stock": 49,
+      "description": "Vivid screen touch tablet.",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "tablets",
+        "electronics"
+      ]
+    },
+    {
+      "id": "64",
+      "title": "NoiseCancel Headphones",
+      "category": "Electronics",
+      "subCategory": "Headphones",
+      "brand": "Vivid",
+      "price": 125.38,
+      "oldPrice": 156.72,
+      "discount": 20,
+      "rating": 3.5,
+      "reviews": 383,
+      "stock": 62,
+      "description": "Over-ear active noise cancelling headphones.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "headphones",
+        "electronics"
+      ]
+    },
+    {
+      "id": "65",
+      "title": "Wireless Earbuds Pro",
+      "category": "Electronics",
+      "subCategory": "Headphones",
+      "brand": "North & Co.",
+      "price": 1008.85,
+      "oldPrice": 1186.88,
+      "discount": 15,
+      "rating": 4.3,
+      "reviews": 470,
+      "stock": 9,
+      "description": "Compact wireless charging earbuds.",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "headphones",
+        "electronics"
+      ]
+    },
+    {
+      "id": "66",
+      "title": "SmartFit Watch",
+      "category": "Electronics",
+      "subCategory": "Smart Watches",
+      "brand": "UrbanStyle",
+      "price": 287.16,
+      "oldPrice": 319.07,
+      "discount": 10,
+      "rating": 4.7,
+      "reviews": 289,
+      "stock": 50,
+      "description": "Fitness tracking smartwatch with heart rate sensor.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "smart watches",
+        "electronics"
+      ]
+    },
+    {
+      "id": "67",
+      "title": "FastCharge Power Bank",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "Aster",
+      "price": 646.13,
+      "oldPrice": 760.15,
+      "discount": 15,
+      "rating": 4.2,
+      "reviews": 426,
+      "stock": 53,
+      "description": "20000mAh portable fast-charging battery bank.",
+      "image": "https://images.unsplash.com/photo-1609592424109-dd9894f241a8?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1609592424109-dd9894f241a8?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "68",
+      "title": "4K Smart Display",
+      "category": "Electronics",
+      "subCategory": "Smart TVs",
+      "brand": "UrbanStyle",
+      "price": 1023.46,
+      "oldPrice": 1364.61,
+      "discount": 25,
+      "rating": 3.9,
+      "reviews": 520,
+      "stock": 55,
+      "description": "Ultra HD 4K HDR television screen.",
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "smart tvs",
+        "electronics"
+      ]
+    },
+    {
+      "id": "69",
+      "title": "Mechanical RGB Keyboard",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "LuxeLine",
+      "price": 872.3,
+      "oldPrice": 1246.14,
+      "discount": 30,
+      "rating": 3.6,
+      "reviews": 475,
+      "stock": 61,
+      "description": "Tactile mechanical gaming keyboard.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "70",
+      "title": "Wireless Ergonomic Mouse",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "Aster",
+      "price": 98.4,
+      "oldPrice": 123,
+      "discount": 20,
+      "rating": 4,
+      "reviews": 499,
+      "stock": 47,
+      "description": "Precision optical wireless computer mouse.",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "71",
+      "title": "Portable Bluetooth Speaker",
+      "category": "Electronics",
+      "subCategory": "Headphones",
+      "brand": "Vivid",
+      "price": 85,
+      "oldPrice": 106.25,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 310,
+      "stock": 40,
+      "description": "Waterproof outdoor wireless audio speaker.",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "headphones",
+        "electronics"
+      ]
+    },
+    {
+      "id": "72",
+      "title": "Action Camera 4K",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "Nova",
+      "price": 240,
+      "oldPrice": 300,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 115,
+      "stock": 18,
+      "description": "Compact waterproof 4K sports video camera.",
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "73",
+      "title": "Smart Home Security Camera",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "North & Co.",
+      "price": 65,
+      "oldPrice": 81.25,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 230,
+      "stock": 35,
+      "description": "1080p indoor Wi-Fi security camera with night vision.",
+      "image": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "74",
+      "title": "Curved Gaming Monitor 27\"",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "LuxeLine",
+      "price": 320,
+      "oldPrice": 400,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 180,
+      "stock": 22,
+      "description": "144Hz 1ms curved gaming display screen.",
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "75",
+      "title": "USB-C Multi-Port Hub",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "Aster",
+      "price": 42,
+      "oldPrice": 52.5,
+      "discount": 20,
+      "rating": 4.2,
+      "reviews": 145,
+      "stock": 65,
+      "description": "7-in-1 aluminum USB-C adapter dock.",
+      "image": "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "76",
+      "title": "Wireless Charging Pad",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "UrbanStyle",
+      "price": 29.99,
+      "oldPrice": 37.48,
+      "discount": 20,
+      "rating": 4.1,
+      "reviews": 95,
+      "stock": 50,
+      "description": "Fast 15W Qi wireless charger stand.",
+      "image": "https://images.unsplash.com/photo-1622445268465-84385740d5e6?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1622445268465-84385740d5e6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "77",
+      "title": "Noise-Isolating Studio Mic",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "Vivid",
+      "price": 110,
+      "oldPrice": 137.5,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 88,
+      "stock": 19,
+      "description": "USB condenser microphone for streaming & podcasts.",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "78",
+      "title": "Portable Wi-Fi Router",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "Nova",
+      "price": 75,
+      "oldPrice": 93.75,
+      "discount": 20,
+      "rating": 4,
+      "reviews": 54,
+      "stock": 28,
+      "description": "4G LTE travel pocket router hotspot.",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "79",
+      "title": "Digital E-Reader Tablet",
+      "category": "Electronics",
+      "subCategory": "Tablets",
+      "brand": "North & Co.",
+      "price": 130,
+      "oldPrice": 162.5,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 320,
+      "stock": 42,
+      "description": "Glare-free paperwhite digital book reader.",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "tablets",
+        "electronics"
+      ]
+    },
+    {
+      "id": "80",
+      "title": "Dimmable LED Desk Lamp",
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "brand": "HomeCraft",
+      "price": 35,
+      "oldPrice": 43.75,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 110,
+      "stock": 55,
+      "description": "Touch control table lamp with USB charging port.",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "accessories",
+        "electronics"
+      ]
+    },
+    {
+      "id": "81",
+      "title": "Urban Runner Sneakers",
+      "category": "Footwear",
+      "subCategory": "Sneakers",
+      "brand": "Nova",
+      "price": 265.75,
+      "oldPrice": 295.28,
+      "discount": 10,
+      "rating": 4.6,
+      "reviews": 187,
+      "stock": 78,
+      "description": "Lightweight cushioned mesh running sneakers.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "sneakers",
+        "footwear"
+      ]
+    },
+    {
+      "id": "82",
+      "title": "Classic White Sneakers",
+      "category": "Footwear",
+      "subCategory": "Sneakers",
+      "brand": "Aster",
+      "price": 137.06,
+      "oldPrice": 161.25,
+      "discount": 15,
+      "rating": 4.3,
+      "reviews": 294,
+      "stock": 43,
+      "description": "Minimal low-top leather daily sneakers.",
+      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "sneakers",
+        "footwear"
+      ]
+    },
+    {
+      "id": "83",
+      "title": "Everyday Casual Shoes",
+      "category": "Footwear",
+      "subCategory": "Casual Shoes",
+      "brand": "UrbanStyle",
+      "price": 271.81,
+      "oldPrice": 388.3,
+      "discount": 30,
+      "rating": 3.4,
+      "reviews": 285,
+      "stock": 17,
+      "description": "Comfort canvas walking footwear.",
+      "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "casual shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "84",
+      "title": "Performance Running Shoes",
+      "category": "Footwear",
+      "subCategory": "Running Shoes",
+      "brand": "North & Co.",
+      "price": 66.77,
+      "oldPrice": 74.19,
+      "discount": 10,
+      "rating": 4.4,
+      "reviews": 178,
+      "stock": 60,
+      "description": "High traction breathable track shoes.",
+      "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "running shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "85",
+      "title": "Leather Formal Shoes",
+      "category": "Footwear",
+      "subCategory": "Formal Shoes",
+      "brand": "HomeCraft",
+      "price": 61.08,
+      "oldPrice": 87.26,
+      "discount": 30,
+      "rating": 3.8,
+      "reviews": 166,
+      "stock": 22,
+      "description": "Polished leather oxford business shoes.",
+      "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "formal shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "86",
+      "title": "Comfort Sandals",
+      "category": "Footwear",
+      "subCategory": "Sandals",
+      "brand": "Vivid",
+      "price": 237.04,
+      "oldPrice": 296.3,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 504,
+      "stock": 20,
+      "description": "Cushioned open-toe slip-on sandals.",
+      "image": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "sandals",
+        "footwear"
+      ]
+    },
+    {
+      "id": "87",
+      "title": "Street High Top Sneakers",
+      "category": "Footwear",
+      "subCategory": "Sneakers",
+      "brand": "Nova",
+      "price": 218.7,
+      "oldPrice": 291.6,
+      "discount": 25,
+      "rating": 3.5,
+      "reviews": 484,
+      "stock": 72,
+      "description": "High ankle street-style skate sneakers.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "sneakers",
+        "footwear"
+      ]
+    },
+    {
+      "id": "88",
+      "title": "Minimal Slip Ons",
+      "category": "Footwear",
+      "subCategory": "Casual Shoes",
+      "brand": "Aster",
+      "price": 164.99,
+      "oldPrice": 219.99,
+      "discount": 25,
+      "rating": 4.1,
+      "reviews": 354,
+      "stock": 33,
+      "description": "Laceless elastic comfortable casual loafers.",
+      "image": "https://images.unsplash.com/photo-1562183241-b937e95585b6?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1562183241-b937e95585b6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "casual shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "89",
+      "title": "Hiking Trail Boots",
+      "category": "Footwear",
+      "subCategory": "Running Shoes",
+      "brand": "North & Co.",
+      "price": 145,
+      "oldPrice": 181.25,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 165,
+      "stock": 25,
+      "description": "Waterproof ankle grip outdoor hiking boots.",
+      "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "running shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "90",
+      "title": "Suede Chelsea Boots",
+      "category": "Footwear",
+      "subCategory": "Formal Shoes",
+      "brand": "LuxeLine",
+      "price": 160,
+      "oldPrice": 200,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 120,
+      "stock": 19,
+      "description": "Classic suede elastic side chelsea boot.",
+      "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "formal shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "91",
+      "title": "Retro Canvas Low Tops",
+      "category": "Footwear",
+      "subCategory": "Sneakers",
+      "brand": "Vivid",
+      "price": 55,
+      "oldPrice": 68.75,
+      "discount": 20,
+      "rating": 4.2,
+      "reviews": 210,
+      "stock": 60,
+      "description": "Vintage style rubber toe canvas sneakers.",
+      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "sneakers",
+        "footwear"
+      ]
+    },
+    {
+      "id": "92",
+      "title": "Leather Penny Loafers",
+      "category": "Footwear",
+      "subCategory": "Formal Shoes",
+      "brand": "HomeCraft",
+      "price": 125,
+      "oldPrice": 156.25,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 98,
+      "stock": 31,
+      "description": "Hand-stitched leather smart casual loafers.",
+      "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "formal shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "93",
+      "title": "Lightweight Flip Flops",
+      "category": "Footwear",
+      "subCategory": "Sandals",
+      "brand": "UrbanStyle",
+      "price": 22,
+      "oldPrice": 27.5,
+      "discount": 20,
+      "rating": 4,
+      "reviews": 180,
+      "stock": 90,
+      "description": "Soft rubber beach thong flip flops.",
+      "image": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "sandals",
+        "footwear"
+      ]
+    },
+    {
+      "id": "94",
+      "title": "Chunky Platform Trainers",
+      "category": "Footwear",
+      "subCategory": "Sneakers",
+      "brand": "Nova",
+      "price": 98,
+      "oldPrice": 122.5,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 140,
+      "stock": 40,
+      "description": "Trend platform sole white fashion sneakers.",
+      "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "sneakers",
+        "footwear"
+      ]
+    },
+    {
+      "id": "95",
+      "title": "Pointed Toe High Heels",
+      "category": "Footwear",
+      "subCategory": "Formal Shoes",
+      "brand": "LuxeLine",
+      "price": 115,
+      "oldPrice": 143.75,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 88,
+      "stock": 20,
+      "description": "Elegant stiletto heel dress pumps.",
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "formal shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "96",
+      "title": "Breathable Mesh Trainers",
+      "category": "Footwear",
+      "subCategory": "Running Shoes",
+      "brand": "Aster",
+      "price": 72,
+      "oldPrice": 90,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 230,
+      "stock": 50,
+      "description": "Flexible knit walking and gym shoes.",
+      "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "running shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "97",
+      "title": "Ankle Strap Espadrilles",
+      "category": "Footwear",
+      "subCategory": "Sandals",
+      "brand": "Vivid",
+      "price": 68,
+      "oldPrice": 85,
+      "discount": 20,
+      "rating": 4.1,
+      "reviews": 75,
+      "stock": 35,
+      "description": "Woven jute wedge summer sandals.",
+      "image": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "sandals",
+        "footwear"
+      ]
+    },
+    {
+      "id": "98",
+      "title": "Waterproof Snow Boots",
+      "category": "Footwear",
+      "subCategory": "Running Shoes",
+      "brand": "North & Co.",
+      "price": 135,
+      "oldPrice": 168.75,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 190,
+      "stock": 18,
+      "description": "Fur lined warm heavy winter snow boots.",
+      "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "running shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "99",
+      "title": "Classic Leather Mules",
+      "category": "Footwear",
+      "subCategory": "Casual Shoes",
+      "brand": "HomeCraft",
+      "price": 82,
+      "oldPrice": 102.5,
+      "discount": 20,
+      "rating": 4.2,
+      "reviews": 64,
+      "stock": 28,
+      "description": "Backless flat slide leather shoes.",
+      "image": "https://images.unsplash.com/photo-1562183241-b937e95585b6?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1562183241-b937e95585b6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "casual shoes",
+        "footwear"
+      ]
+    },
+    {
+      "id": "100",
+      "title": "Basketball High Tops",
+      "category": "Footwear",
+      "subCategory": "Sneakers",
+      "brand": "UrbanStyle",
+      "price": 120,
+      "oldPrice": 150,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 310,
+      "stock": 44,
+      "description": "Air cushion padded ankle court sneakers.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "sneakers",
+        "footwear"
+      ]
+    },
+    {
+      "id": "101",
+      "title": "Structured Leather Handbag",
+      "category": "Bags & Accessories",
+      "subCategory": "Handbags",
+      "brand": "HomeCraft",
+      "price": 223.37,
+      "oldPrice": 248.19,
+      "discount": 10,
+      "rating": 3.4,
+      "reviews": 532,
+      "stock": 65,
+      "description": "Structured Leather Handbag designed for modern city life.",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "handbags",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "102",
+      "title": "Everyday Canvas Tote",
+      "category": "Bags & Accessories",
+      "subCategory": "Handbags",
+      "brand": "UrbanStyle",
+      "price": 172.01,
+      "oldPrice": 215.01,
+      "discount": 20,
+      "rating": 3.7,
+      "reviews": 644,
+      "stock": 42,
+      "description": "Spacious heavy-duty canvas tote bag.",
+      "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "handbags",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "103",
+      "title": "Urban Laptop Backpack",
+      "category": "Bags & Accessories",
+      "subCategory": "Backpacks",
+      "brand": "LuxeLine",
+      "price": 155.59,
+      "oldPrice": 194.49,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 367,
+      "stock": 60,
+      "description": "Padded 15.6 inch laptop waterproof backpack.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "backpacks",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "104",
+      "title": "Travel Daypack",
+      "category": "Bags & Accessories",
+      "subCategory": "Backpacks",
+      "brand": "HomeCraft",
+      "price": 262.58,
+      "oldPrice": 291.76,
+      "discount": 10,
+      "rating": 4.7,
+      "reviews": 654,
+      "stock": 60,
+      "description": "Compact lightweight travel carry-on backpack.",
+      "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "backpacks",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "105",
+      "title": "Slim Leather Wallet",
+      "category": "Bags & Accessories",
+      "subCategory": "Wallets",
+      "brand": "Aster",
+      "price": 167.72,
+      "oldPrice": 197.32,
+      "discount": 15,
+      "rating": 4.8,
+      "reviews": 69,
+      "stock": 37,
+      "description": "RFID blocking bifold genuine leather wallet.",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "wallets",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "106",
+      "title": "Classic Sunglasses",
+      "category": "Bags & Accessories",
+      "subCategory": "Sunglasses",
+      "brand": "Aster",
+      "price": 245.01,
+      "oldPrice": 350.01,
+      "discount": 30,
+      "rating": 4.8,
+      "reviews": 175,
+      "stock": 60,
+      "description": "Polarized UV400 protection retro sunglasses.",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "sunglasses",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "107",
+      "title": "Premium Leather Belt",
+      "category": "Bags & Accessories",
+      "subCategory": "Belts",
+      "brand": "Nova",
+      "price": 268.04,
+      "oldPrice": 382.91,
+      "discount": 30,
+      "rating": 4.8,
+      "reviews": 268,
+      "stock": 4,
+      "description": "Full grain leather belt with brushed buckle.",
+      "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1624222247344-550fb60583dc?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "belts",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "108",
+      "title": "Compact Crossbody Bag",
+      "category": "Bags & Accessories",
+      "subCategory": "Handbags",
+      "brand": "Aster",
+      "price": 255.4,
+      "oldPrice": 364.86,
+      "discount": 30,
+      "rating": 4.5,
+      "reviews": 477,
+      "stock": 26,
+      "description": "Lightweight zipper closure crossbody purse.",
+      "image": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "handbags",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "109",
+      "title": "Minimalist Cardholder",
+      "category": "Bags & Accessories",
+      "subCategory": "Wallets",
+      "brand": "North & Co.",
+      "price": 35,
+      "oldPrice": 43.75,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 112,
+      "stock": 50,
+      "description": "Ultra slim front-pocket leather card case.",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "wallets",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "110",
+      "title": "Aviator Frame Sunglasses",
+      "category": "Bags & Accessories",
+      "subCategory": "Sunglasses",
+      "brand": "Vivid",
+      "price": 88,
+      "oldPrice": 110,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 145,
+      "stock": 35,
+      "description": "Gold metal wire rim aviator sunglasses.",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "sunglasses",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "111",
+      "title": "Woven Straw Beach Bag",
+      "category": "Bags & Accessories",
+      "subCategory": "Handbags",
+      "brand": "HomeCraft",
+      "price": 65,
+      "oldPrice": 81.25,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 89,
+      "stock": 22,
+      "description": "Spacious boho summer straw shoulder tote.",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "handbags",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "112",
+      "title": "Leather Messenger Satchel",
+      "category": "Bags & Accessories",
+      "subCategory": "Handbags",
+      "brand": "LuxeLine",
+      "price": 180,
+      "oldPrice": 225,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 130,
+      "stock": 16,
+      "description": "Vintage briefcase style shoulder bag.",
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "handbags",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "113",
+      "title": "Wide Brim Felt Fedora",
+      "category": "Bags & Accessories",
+      "subCategory": "Belts",
+      "brand": "UrbanStyle",
+      "price": 52,
+      "oldPrice": 65,
+      "discount": 20,
+      "rating": 4.2,
+      "reviews": 68,
+      "stock": 27,
+      "description": "Wool felt stylish flat brim fedora hat.",
+      "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "belts",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "114",
+      "title": "Silk Square Scarf",
+      "category": "Bags & Accessories",
+      "subCategory": "Belts",
+      "brand": "LuxeLine",
+      "price": 45,
+      "oldPrice": 56.25,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 94,
+      "stock": 40,
+      "description": "Printed satin silk neck wrap scarf.",
+      "image": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "belts",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "115",
+      "title": "Canvas Duffle Gym Bag",
+      "category": "Bags & Accessories",
+      "subCategory": "Backpacks",
+      "brand": "Nova",
+      "price": 78,
+      "oldPrice": 97.5,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 160,
+      "stock": 30,
+      "description": "Weekend overnight travel duffle bag.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "backpacks",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "116",
+      "title": "Leather Key Organizer Case",
+      "category": "Bags & Accessories",
+      "subCategory": "Wallets",
+      "brand": "Aster",
+      "price": 28,
+      "oldPrice": 35,
+      "discount": 20,
+      "rating": 4.1,
+      "reviews": 42,
+      "stock": 55,
+      "description": "Compact key holder pouch clip.",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "wallets",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "117",
+      "title": "Designer Belt Bag Fanny Pack",
+      "category": "Bags & Accessories",
+      "subCategory": "Handbags",
+      "brand": "UrbanStyle",
+      "price": 58,
+      "oldPrice": 72.5,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 110,
+      "stock": 38,
+      "description": "Adjustable strap hip and chest pouch.",
+      "image": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "handbags",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "118",
+      "title": "Hard Shell Suitcase 24\"",
+      "category": "Bags & Accessories",
+      "subCategory": "Backpacks",
+      "brand": "North & Co.",
+      "price": 165,
+      "oldPrice": 206.25,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 210,
+      "stock": 14,
+      "description": "Spinning wheel luggage travel trunk.",
+      "image": "https://images.unsplash.com/photo-1565026057447-b88e3f29042b?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1565026057447-b88e3f29042b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "backpacks",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "119",
+      "title": "Reversible Buckle Belt",
+      "category": "Bags & Accessories",
+      "subCategory": "Belts",
+      "brand": "HomeCraft",
+      "price": 38,
+      "oldPrice": 47.5,
+      "discount": 20,
+      "rating": 4,
+      "reviews": 82,
+      "stock": 45,
+      "description": "Dual-sided black/brown dress belt.",
+      "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1624222247344-550fb60583dc?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "belts",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "120",
+      "title": "Cat-Eye Acetate Glasses",
+      "category": "Bags & Accessories",
+      "subCategory": "Sunglasses",
+      "brand": "LuxeLine",
+      "price": 95,
+      "oldPrice": 118.75,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 78,
+      "stock": 20,
+      "description": "Chic tortoiseshell retro cat-eye frames.",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "sunglasses",
+        "bags & accessories"
+      ]
+    },
+    {
+      "id": "121",
+      "title": "Hydrating Face Serum",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Skincare",
+      "brand": "Nova",
+      "price": 101.06,
+      "oldPrice": 112.29,
+      "discount": 10,
+      "rating": 3.8,
+      "reviews": 190,
+      "stock": 14,
+      "description": "Hyaluronic acid deep hydration serum.",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "skincare",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "122",
+      "title": "Velvet Matte Lipstick",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Makeup",
+      "brand": "Nova",
+      "price": 32.12,
+      "oldPrice": 40.15,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 383,
+      "stock": 5,
+      "description": "Long-lasting rich pigment matte lipstick.",
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "makeup",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "123",
+      "title": "Vitamin C Face Cream",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Skincare",
+      "brand": "LuxeLine",
+      "price": 65.64,
+      "oldPrice": 77.22,
+      "discount": 15,
+      "rating": 3.6,
+      "reviews": 312,
+      "stock": 13,
+      "description": "Brightening antioxidant day moisturizer.",
+      "image": "https://images.unsplash.com/photo-1608248597261-833258657640?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1608248597261-833258657640?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "skincare",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "124",
+      "title": "Daily Sunscreen SPF 50",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Skincare",
+      "brand": "UrbanStyle",
+      "price": 9.41,
+      "oldPrice": 10.46,
+      "discount": 10,
+      "rating": 3.5,
+      "reviews": 292,
+      "stock": 53,
+      "description": "Broad spectrum non-greasy sun lotion protection.",
+      "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "skincare",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "125",
+      "title": "Volumizing Mascara",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Makeup",
+      "brand": "Nova",
+      "price": 102.4,
+      "oldPrice": 113.78,
+      "discount": 10,
+      "rating": 4.1,
+      "reviews": 322,
+      "stock": 42,
+      "description": "Smudge-proof lengthening black mascara.",
+      "image": "https://images.unsplash.com/photo-1560700146-1c4354911984?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1560700146-1c4354911984?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "makeup",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "126",
+      "title": "Rose Eau de Parfum",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Fragrances",
+      "brand": "Vivid",
+      "price": 41.06,
+      "oldPrice": 58.66,
+      "discount": 30,
+      "rating": 3.8,
+      "reviews": 507,
+      "stock": 54,
+      "description": "Floral fresh rose essence perfume spray.",
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "fragrances",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "127",
+      "title": "Nourishing Hair Mask",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Hair Care",
+      "brand": "Vivid",
+      "price": 85.57,
+      "oldPrice": 100.67,
+      "discount": 15,
+      "rating": 4.8,
+      "reviews": 457,
+      "stock": 70,
+      "description": "Argan oil deep conditioning treatment.",
+      "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "hair care",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "128",
+      "title": "Gentle Body Wash",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Body Care",
+      "brand": "HomeCraft",
+      "price": 53.4,
+      "oldPrice": 76.29,
+      "discount": 30,
+      "rating": 4.9,
+      "reviews": 222,
+      "stock": 14,
+      "description": "Hydrating botanical extract shower gel.",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "body care",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "129",
+      "title": "Charcoal Facial Cleanser",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Skincare",
+      "brand": "Aster",
+      "price": 28,
+      "oldPrice": 35,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 160,
+      "stock": 45,
+      "description": "Purifying activated charcoal face wash gel.",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "skincare",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "130",
+      "title": "Nude Eyeshadow Palette",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Makeup",
+      "brand": "LuxeLine",
+      "price": 48,
+      "oldPrice": 60,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 280,
+      "stock": 30,
+      "description": "12 shade shimmer matte eyeshadow compact.",
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "makeup",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "131",
+      "title": "Liquid Foundation Medium",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Makeup",
+      "brand": "UrbanStyle",
+      "price": 38,
+      "oldPrice": 47.5,
+      "discount": 20,
+      "rating": 4.2,
+      "reviews": 195,
+      "stock": 35,
+      "description": "Full coverage satin finish foundation bottle.",
+      "image": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "makeup",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "132",
+      "title": "Exfoliating Body Scrub",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Body Care",
+      "brand": "HomeCraft",
+      "price": 32,
+      "oldPrice": 40,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 140,
+      "stock": 40,
+      "description": "Coffee & coconut oil body polish scrub jar.",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "body care",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "133",
+      "title": "Vanilla Luxury Cologne",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Fragrances",
+      "brand": "North & Co.",
+      "price": 88,
+      "oldPrice": 110,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 98,
+      "stock": 25,
+      "description": "Warm spicy amber vanilla fragrance mist.",
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "fragrances",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "134",
+      "title": "Pro Makeup Brush Set",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Makeup",
+      "brand": "Nova",
+      "price": 42,
+      "oldPrice": 52.5,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 310,
+      "stock": 50,
+      "description": "10-piece synthetic soft bristle brush kit.",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "makeup",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "135",
+      "title": "Retinol Night Repair Elixir",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Skincare",
+      "brand": "LuxeLine",
+      "price": 78,
+      "oldPrice": 97.5,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 165,
+      "stock": 18,
+      "description": "Anti-aging facial oil serum dropper.",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "skincare",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "136",
+      "title": "Ionic Hair Dryer 1800W",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Hair Care",
+      "brand": "Aster",
+      "price": 68,
+      "oldPrice": 85,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 120,
+      "stock": 22,
+      "description": "Fast drying salon thermal blower.",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "hair care",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "137",
+      "title": "Organic Lip Balm 3-Pack",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Skincare",
+      "brand": "HomeCraft",
+      "price": 14,
+      "oldPrice": 17.5,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 210,
+      "stock": 80,
+      "description": "Beeswax moisturizing lip butter sticks.",
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "skincare",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "138",
+      "title": "Smoothing Hair Serum",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Hair Care",
+      "brand": "Vivid",
+      "price": 28,
+      "oldPrice": 35,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 115,
+      "stock": 42,
+      "description": "Anti-frizz heat protectant oil drops.",
+      "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "hair care",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "139",
+      "title": "Gel Nail Polish Set",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Makeup",
+      "brand": "UrbanStyle",
+      "price": 24,
+      "oldPrice": 30,
+      "discount": 20,
+      "rating": 4.1,
+      "reviews": 90,
+      "stock": 60,
+      "description": "6 pastel colors UV cured nail enamel kit.",
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "makeup",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "140",
+      "title": "Soothing Rosewater Toner",
+      "category": "Beauty & Personal Care",
+      "subCategory": "Skincare",
+      "brand": "Nova",
+      "price": 22,
+      "oldPrice": 27.5,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 175,
+      "stock": 38,
+      "description": "Natural hydrating facial mist spray.",
+      "image": "https://images.unsplash.com/photo-1608248597261-833258657640?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1608248597261-833258657640?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "skincare",
+        "beauty & personal care"
+      ]
+    },
+    {
+      "id": "141",
+      "title": "Modern Accent Chair",
+      "category": "Home & Living",
+      "subCategory": "Furniture",
+      "brand": "North & Co.",
+      "price": 361.11,
+      "oldPrice": 424.84,
+      "discount": 15,
+      "rating": 4.8,
+      "reviews": 210,
+      "stock": 70,
+      "description": "Scandi style wooden armchair for living rooms.",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "furniture",
+        "home & living"
+      ]
+    },
+    {
+      "id": "142",
+      "title": "Minimal Coffee Table",
+      "category": "Home & Living",
+      "subCategory": "Furniture",
+      "brand": "North & Co.",
+      "price": 124.6,
+      "oldPrice": 178,
+      "discount": 30,
+      "rating": 3.8,
+      "reviews": 55,
+      "stock": 38,
+      "description": "Low profile oak top coffee table.",
+      "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "furniture",
+        "home & living"
+      ]
+    },
+    {
+      "id": "143",
+      "title": "Decorative Wall Mirror",
+      "category": "Home & Living",
+      "subCategory": "Home Decor",
+      "brand": "Aster",
+      "price": 218.93,
+      "oldPrice": 243.26,
+      "discount": 10,
+      "rating": 4.4,
+      "reviews": 602,
+      "stock": 11,
+      "description": "Round metal arch framed wall mirror.",
+      "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "home decor",
+        "home & living"
+      ]
+    },
+    {
+      "id": "144",
+      "title": "Ceramic Table Lamp",
+      "category": "Home & Living",
+      "subCategory": "Lighting",
+      "brand": "UrbanStyle",
+      "price": 146.11,
+      "oldPrice": 208.73,
+      "discount": 30,
+      "rating": 4.3,
+      "reviews": 630,
+      "stock": 28,
+      "description": "Warm ambient light bedside ceramic lamp.",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "lighting",
+        "home & living"
+      ]
+    },
+    {
+      "id": "145",
+      "title": "Soft Cushion Set",
+      "category": "Home & Living",
+      "subCategory": "Home Decor",
+      "brand": "North & Co.",
+      "price": 69.69,
+      "oldPrice": 77.43,
+      "discount": 10,
+      "rating": 4.5,
+      "reviews": 179,
+      "stock": 79,
+      "description": "Set of 2 linen throw pillow covers.",
+      "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "home decor",
+        "home & living"
+      ]
+    },
+    {
+      "id": "146",
+      "title": "Bamboo Storage Basket",
+      "category": "Home & Living",
+      "subCategory": "Storage",
+      "brand": "Aster",
+      "price": 346.26,
+      "oldPrice": 407.36,
+      "discount": 15,
+      "rating": 3.8,
+      "reviews": 615,
+      "stock": 48,
+      "description": "Handwoven rattan laundry organizer basket.",
+      "image": "https://images.unsplash.com/photo-1615529182904-14819c35db37?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1615529182904-14819c35db37?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "storage",
+        "home & living"
+      ]
+    },
+    {
+      "id": "147",
+      "title": "Nonstick Cookware Set",
+      "category": "Home & Living",
+      "subCategory": "Kitchen",
+      "brand": "HomeCraft",
+      "price": 122.02,
+      "oldPrice": 162.69,
+      "discount": 25,
+      "rating": 4.9,
+      "reviews": 163,
+      "stock": 80,
+      "description": "10-piece granite induction pots and pans set.",
+      "image": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "kitchen",
+        "home & living"
+      ]
+    },
+    {
+      "id": "148",
+      "title": "Modern Pendant Light",
+      "category": "Home & Living",
+      "subCategory": "Lighting",
+      "brand": "Aster",
+      "price": 188.85,
+      "oldPrice": 209.83,
+      "discount": 10,
+      "rating": 4.6,
+      "reviews": 388,
+      "stock": 13,
+      "description": "Industrial hanging ceiling glass dome light.",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "lighting",
+        "home & living"
+      ]
+    },
+    {
+      "id": "149",
+      "title": "Oak Side Table",
+      "category": "Home & Living",
+      "subCategory": "Furniture",
+      "brand": "HomeCraft",
+      "price": 470.65,
+      "oldPrice": 627.53,
+      "discount": 25,
+      "rating": 3.7,
+      "reviews": 113,
+      "stock": 60,
+      "description": "Solid oak wood nightstand with drawer.",
+      "image": "https://images.unsplash.com/photo-1532372576444-dda954194ad0?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1532372576444-dda954194ad0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "furniture",
+        "home & living"
+      ]
+    },
+    {
+      "id": "150",
+      "title": "Cotton Throw Blanket",
+      "category": "Home & Living",
+      "subCategory": "Home Decor",
+      "brand": "LuxeLine",
+      "price": 75.97,
+      "oldPrice": 94.96,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 366,
+      "stock": 28,
+      "description": "Textured woven fringe sofa throw blanket.",
+      "image": "https://images.unsplash.com/photo-1580301762395-21ce84d00bc6?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1580301762395-21ce84d00bc6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "home decor",
+        "home & living"
+      ]
+    },
+    {
+      "id": "151",
+      "title": "Scented Soy Candle",
+      "category": "Home & Living",
+      "subCategory": "Home Decor",
+      "brand": "Vivid",
+      "price": 28,
+      "oldPrice": 35,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 190,
+      "stock": 50,
+      "description": "Lavender vanilla essential oil glass jar candle.",
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "home decor",
+        "home & living"
+      ]
+    },
+    {
+      "id": "152",
+      "title": "Minimalist Wall Clock",
+      "category": "Home & Living",
+      "subCategory": "Home Decor",
+      "brand": "UrbanStyle",
+      "price": 42,
+      "oldPrice": 52.5,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 88,
+      "stock": 35,
+      "description": "Silent non-ticking wooden frame 12-inch wall clock.",
+      "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "home decor",
+        "home & living"
+      ]
+    },
+    {
+      "id": "153",
+      "title": "Ceramic Flower Vase",
+      "category": "Home & Living",
+      "subCategory": "Home Decor",
+      "brand": "Nova",
+      "price": 38,
+      "oldPrice": 47.5,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 115,
+      "stock": 40,
+      "description": "Handcrafted matte white pottery table vase.",
+      "image": "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b7?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b7?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "home decor",
+        "home & living"
+      ]
+    },
+    {
+      "id": "154",
+      "title": "Ergonomic Office Chair",
+      "category": "Home & Living",
+      "subCategory": "Furniture",
+      "brand": "North & Co.",
+      "price": 220,
+      "oldPrice": 275,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 240,
+      "stock": 18,
+      "description": "Mesh back adjustable lumbar support desk chair.",
+      "image": "https://images.unsplash.com/photo-1580481072645-022f9a6d1270?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1580481072645-022f9a6d1270?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "furniture",
+        "home & living"
+      ]
+    },
+    {
+      "id": "155",
+      "title": "Linen Duvet Cover Set",
+      "category": "Home & Living",
+      "subCategory": "Home Decor",
+      "brand": "LuxeLine",
+      "price": 140,
+      "oldPrice": 175,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 160,
+      "stock": 22,
+      "description": "Washed French flax queen size bedding ensemble.",
+      "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "home decor",
+        "home & living"
+      ]
+    },
+    {
+      "id": "156",
+      "title": "French Press Coffee Maker",
+      "category": "Home & Living",
+      "subCategory": "Kitchen",
+      "brand": "HomeCraft",
+      "price": 34,
+      "oldPrice": 42.5,
+      "discount": 20,
+      "rating": 4.4,
+      "reviews": 210,
+      "stock": 45,
+      "description": "Heat resistant glass plunger coffee pot.",
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "kitchen",
+        "home & living"
+      ]
+    },
+    {
+      "id": "157",
+      "title": "Cast Iron Dutch Oven",
+      "category": "Home & Living",
+      "subCategory": "Kitchen",
+      "brand": "Aster",
+      "price": 95,
+      "oldPrice": 118.75,
+      "discount": 20,
+      "rating": 4.9,
+      "reviews": 310,
+      "stock": 15,
+      "description": "Enameled 5-quart heavy duty roasting pot.",
+      "image": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": false,
+      "tags": [
+        "kitchen",
+        "home & living"
+      ]
+    },
+    {
+      "id": "158",
+      "title": "Area Area Rug 5x7",
+      "category": "Home & Living",
+      "subCategory": "Home Decor",
+      "brand": "Vivid",
+      "price": 115,
+      "oldPrice": 143.75,
+      "discount": 20,
+      "rating": 4.3,
+      "reviews": 140,
+      "stock": 20,
+      "description": "Geometric soft low pile floor area rug.",
+      "image": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": true,
+      "tags": [
+        "home decor",
+        "home & living"
+      ]
+    },
+    {
+      "id": "159",
+      "title": "Stainless Steel Trash Can",
+      "category": "Home & Living",
+      "subCategory": "Storage",
+      "brand": "UrbanStyle",
+      "price": 68,
+      "oldPrice": 85,
+      "discount": 20,
+      "rating": 4.2,
+      "reviews": 95,
+      "stock": 30,
+      "description": "Soft-close step pedal kitchen bin.",
+      "image": "https://images.unsplash.com/photo-1615529182904-14819c35db37?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1615529182904-14819c35db37?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": false,
+      "deal": false,
+      "tags": [
+        "storage",
+        "home & living"
+      ]
+    },
+    {
+      "id": "160",
+      "title": "Wooden Bookshelf 4-Tier",
+      "category": "Home & Living",
+      "subCategory": "Furniture",
+      "brand": "Nova",
+      "price": 160,
+      "oldPrice": 200,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 125,
+      "stock": 12,
+      "description": "Open ladder frame standing display shelf.",
+      "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&w=800&q=80"
+      ],
+      "featured": false,
+      "bestRated": true,
+      "deal": true,
+      "tags": [
+        "furniture",
+        "home & living"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "cart": {
+        "id": "9",
+        "title": "Denim Overshirt",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "HomeCraft",
+        "price": 79.67,
+        "oldPrice": 93.73,
+        "discount": 15,
+        "rating": 3.5,
+        "reviews": 28,
+        "stock": 49,
+        "description": "Denim Overshirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": false,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "izeXwMDVP1U"
+    },
+    {
+      "cart": {
+        "id": "10",
+        "title": "Formal Dress Shirt",
+        "category": "Men's Clothing",
+        "subCategory": "Shirts",
+        "brand": "Aster",
+        "price": 278.31,
+        "oldPrice": 371.08,
+        "discount": 25,
+        "rating": 3.7,
+        "reviews": 225,
+        "stock": 65,
+        "description": "Formal Dress Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": true,
+        "tags": [
+          "shirts",
+          "men's clothing"
+        ]
+      },
+      "id": "5rjwrA8kX2E"
+    },
+    {
+      "cart": {
+        "id": "11",
+        "title": "Graphic Crewneck Sweatshirt",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "UrbanStyle",
+        "price": 89.99,
+        "oldPrice": 112.49,
+        "discount": 20,
+        "rating": 4.4,
+        "reviews": 112,
+        "stock": 45,
+        "description": "Graphic Crewneck Sweatshirt designed for everyday style.",
+        "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": false,
+        "bestRated": true,
+        "deal": true,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "611OwhE4skk"
+    },
+    {
+      "cart": {
+        "id": "13",
+        "title": "Wool Blend Overcoat",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "LuxeLine",
+        "price": 240,
+        "oldPrice": 300,
+        "discount": 20,
+        "rating": 4.8,
+        "reviews": 156,
+        "stock": 19,
+        "description": "Elegant wool blend coat for chilly weather.",
+        "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": false,
+        "bestRated": true,
+        "deal": false,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "E6bIbiqr8po"
+    },
+    {
+      "cart": {
+        "id": "12",
+        "title": "Casual Hooded Jacket",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "Nova",
+        "price": 135.5,
+        "oldPrice": 169.38,
+        "discount": 20,
+        "rating": 4.2,
+        "reviews": 89,
+        "stock": 31,
+        "description": "Casual Hooded Jacket built for outdoor comfort.",
+        "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": false,
+        "bestRated": false,
+        "deal": true,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "UjEuWq8KeLo"
+    },
+    {
+      "cart": {
+        "id": "11",
+        "title": "Graphic Crewneck Sweatshirt",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "UrbanStyle",
+        "price": 89.99,
+        "oldPrice": 112.49,
+        "discount": 20,
+        "rating": 4.4,
+        "reviews": 112,
+        "stock": 45,
+        "description": "Graphic Crewneck Sweatshirt designed for everyday style.",
+        "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": false,
+        "bestRated": true,
+        "deal": true,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "yYxoq4T0KI8"
+    },
+    {
+      "cart": {
+        "id": "14",
+        "title": "Striped Casual Tee",
+        "category": "Men's Clothing",
+        "subCategory": "T-Shirts",
+        "brand": "Vivid",
+        "price": 34.99,
+        "oldPrice": 43.74,
+        "discount": 20,
+        "rating": 4.1,
+        "reviews": 98,
+        "stock": 62,
+        "description": "Lightweight cotton t-shirt with classic stripes.",
+        "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": false,
+        "bestRated": false,
+        "deal": false,
+        "tags": [
+          "t-shirts",
+          "men's clothing"
+        ]
+      },
+      "id": "48fWLqQh-tc"
+    },
+    {
+      "cart": {
+        "id": "10",
+        "title": "Formal Dress Shirt",
+        "category": "Men's Clothing",
+        "subCategory": "Shirts",
+        "brand": "Aster",
+        "price": 278.31,
+        "oldPrice": 371.08,
+        "discount": 25,
+        "rating": 3.7,
+        "reviews": 225,
+        "stock": 65,
+        "description": "Formal Dress Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": true,
+        "tags": [
+          "shirts",
+          "men's clothing"
+        ]
+      },
+      "id": "BLHzdA-Z7m8"
+    },
+    {
+      "cart": {
+        "id": "9",
+        "title": "Denim Overshirt",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "HomeCraft",
+        "price": 79.67,
+        "oldPrice": 93.73,
+        "discount": 15,
+        "rating": 3.5,
+        "reviews": 28,
+        "stock": 49,
+        "description": "Denim Overshirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": false,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "qLNwNjjMzNA"
+    },
+    {
+      "cart": {
+        "id": "9",
+        "title": "Denim Overshirt",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "HomeCraft",
+        "price": 79.67,
+        "oldPrice": 93.73,
+        "discount": 15,
+        "rating": 3.5,
+        "reviews": 28,
+        "stock": 49,
+        "description": "Denim Overshirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": false,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "n620SMbmP_o"
+    },
+    {
+      "cart": {
+        "id": "10",
+        "title": "Formal Dress Shirt",
+        "category": "Men's Clothing",
+        "subCategory": "Shirts",
+        "brand": "Aster",
+        "price": 278.31,
+        "oldPrice": 371.08,
+        "discount": 25,
+        "rating": 3.7,
+        "reviews": 225,
+        "stock": 65,
+        "description": "Formal Dress Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": true,
+        "tags": [
+          "shirts",
+          "men's clothing"
+        ]
+      },
+      "id": "uwJx81HlbSU"
+    },
+    {
+      "cart": {
+        "id": "9",
+        "title": "Denim Overshirt",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "HomeCraft",
+        "price": 79.67,
+        "oldPrice": 93.73,
+        "discount": 15,
+        "rating": 3.5,
+        "reviews": 28,
+        "stock": 49,
+        "description": "Denim Overshirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": false,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "ls3ARaZLeWo"
+    },
+    {
+      "cart": {
+        "id": "10",
+        "title": "Formal Dress Shirt",
+        "category": "Men's Clothing",
+        "subCategory": "Shirts",
+        "brand": "Aster",
+        "price": 278.31,
+        "oldPrice": 371.08,
+        "discount": 25,
+        "rating": 3.7,
+        "reviews": 225,
+        "stock": 65,
+        "description": "Formal Dress Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": true,
+        "tags": [
+          "shirts",
+          "men's clothing"
+        ]
+      },
+      "id": "ew_rPkxN8mQ"
+    }
+  ],
+  "cart": [
+    {
+      "cart": {
+        "id": "10",
+        "title": "Formal Dress Shirt",
+        "category": "Men's Clothing",
+        "subCategory": "Shirts",
+        "brand": "Aster",
+        "price": 278.31,
+        "oldPrice": 371.08,
+        "discount": 25,
+        "rating": 3.7,
+        "reviews": 225,
+        "stock": 65,
+        "description": "Formal Dress Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": true,
+        "tags": [
+          "shirts",
+          "men's clothing"
+        ]
+      },
+      "id": "mBdUgbJaKtM"
+    },
+    {
+      "cart": {
+        "id": "9",
+        "title": "Denim Overshirt",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "HomeCraft",
+        "price": 79.67,
+        "oldPrice": 93.73,
+        "discount": 15,
+        "rating": 3.5,
+        "reviews": 28,
+        "stock": 49,
+        "description": "Denim Overshirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": false,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "UvnCSbpWMuA"
+    },
+    {
+      "cart": {
+        "id": "11",
+        "title": "Graphic Crewneck Sweatshirt",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "UrbanStyle",
+        "price": 89.99,
+        "oldPrice": 112.49,
+        "discount": 20,
+        "rating": 4.4,
+        "reviews": 112,
+        "stock": 45,
+        "description": "Graphic Crewneck Sweatshirt designed for everyday style.",
+        "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": false,
+        "bestRated": true,
+        "deal": true,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "dfEoh138kFI"
+    },
+    {
+      "cart": {
+        "id": "12",
+        "title": "Casual Hooded Jacket",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "Nova",
+        "price": 135.5,
+        "oldPrice": 169.38,
+        "discount": 20,
+        "rating": 4.2,
+        "reviews": 89,
+        "stock": 31,
+        "description": "Casual Hooded Jacket built for outdoor comfort.",
+        "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": false,
+        "bestRated": false,
+        "deal": true,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "NSUHN2gFM9Y"
+    },
+    {
+      "cart": {
+        "id": "13",
+        "title": "Wool Blend Overcoat",
+        "category": "Men's Clothing",
+        "subCategory": "Jackets",
+        "brand": "LuxeLine",
+        "price": 240,
+        "oldPrice": 300,
+        "discount": 20,
+        "rating": 4.8,
+        "reviews": 156,
+        "stock": 19,
+        "description": "Elegant wool blend coat for chilly weather.",
+        "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": false,
+        "bestRated": true,
+        "deal": false,
+        "tags": [
+          "jackets",
+          "men's clothing"
+        ]
+      },
+      "id": "08wRgpOzwgg"
+    },
+    {
+      "cart": {
+        "id": "1",
+        "title": "Classic Oxford Shirt",
+        "category": "Men's Clothing",
+        "subCategory": "Shirts",
+        "brand": "North & Co.",
+        "price": 164.69,
+        "oldPrice": 193.75,
+        "discount": 15,
+        "rating": 3.6,
+        "reviews": 207,
+        "stock": 18,
+        "description": "Classic Oxford Shirt designed for everyday use with a modern finish, comfortable feel and dependable quality.",
+        "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80",
+        "images": [
+          "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80"
+        ],
+        "featured": true,
+        "bestRated": false,
+        "deal": false,
+        "tags": [
+          "shirts",
+          "men's clothing"
+        ]
+      },
+      "id": "Hl6NKDVkB0U"
+    }
+  ],
+  "wishlist": [],
+  "orders": [
+    {
+      "data": [
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        },
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "11",
+          "quantity": 1,
+          "price": 71.99
+        },
+        {
+          "id": "12",
+          "quantity": 1,
+          "price": 108.4
+        },
+        {
+          "id": "13",
+          "quantity": 1,
+          "price": 192
+        },
+        {
+          "id": "1",
+          "quantity": 1,
+          "price": 139.99
+        }
+      ],
+      "id": "mjFRabgyQvg"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        },
+        {
+          "id": "11",
+          "quantity": 1,
+          "price": 71.99
+        },
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        }
+      ],
+      "id": "8_t9dwYMOzA"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        },
+        {
+          "id": "11",
+          "quantity": 1,
+          "price": 71.99
+        },
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        }
+      ],
+      "id": "Mo05F1jG5zM"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 2,
+          "price": 208.73
+        },
+        {
+          "id": "11",
+          "quantity": 1,
+          "price": 71.99
+        },
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        }
+      ],
+      "id": "hZrgOoSZpiw"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 2,
+          "price": 208.73
+        },
+        {
+          "id": "11",
+          "quantity": 2,
+          "price": 71.99
+        },
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        }
+      ],
+      "id": "rCGPm2XUKmE"
+    },
+    {
+      "data": [],
+      "id": "cIWjjgyPQuI"
+    },
+    {
+      "data": [],
+      "id": "-X1vhMzeJFE"
+    },
+    {
+      "data": [],
+      "id": "3pSFawVQhMI"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        },
+        {
+          "id": "11",
+          "quantity": 1,
+          "price": 71.99
+        },
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        }
+      ],
+      "id": "cDZJV7loFrk"
+    },
+    {
+      "data": [],
+      "id": "IGY5wOzwFHg"
+    },
+    {
+      "data": [],
+      "id": "hDnYkbLyHb0"
+    },
+    {
+      "data": [],
+      "id": "-cCzcRHvTUI"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        },
+        {
+          "id": "11",
+          "quantity": 1,
+          "price": 71.99
+        },
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        }
+      ],
+      "id": "Lg5B4bB3yKQ"
+    },
+    {
+      "data": [],
+      "id": "2tdEZFEJ7s0"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        }
+      ],
+      "id": "HI3oatjG6-Y"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        }
+      ],
+      "id": "y7kodcAYiv4"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 2,
+          "price": 208.73
+        }
+      ],
+      "id": "cOWYpaklqCU"
+    },
+    {
+      "data": [],
+      "id": "Qe4Zwk3kVLI"
+    },
+    {
+      "data": [],
+      "id": "AXdLiUhOmFc"
+    },
+    {
+      "data": [],
+      "id": "ETUg-mCxaeg"
+    },
+    {
+      "data": [],
+      "id": "EMb5NAYZxq8"
+    },
+    {
+      "data": [],
+      "id": "ZHYU-P3gJUA"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        }
+      ],
+      "id": "4iKvVvhhbNg"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        }
+      ],
+      "id": "ue2KaC5VjwY"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        }
+      ],
+      "id": "AgtY3FMOlmw"
+    },
+    {
+      "data": [],
+      "id": "mcWT7k11BVE"
+    },
+    {
+      "data": [],
+      "id": "I21l2qx2rb0"
+    },
+    {
+      "data": [],
+      "id": "wYY8ejEtbt4"
+    },
+    {
+      "data": [],
+      "id": "B1_Xa6aoGMw"
+    },
+    {
+      "data": [],
+      "id": "aOK-XMaTZ2o"
+    },
+    {
+      "data": [],
+      "id": "F7Hh12GH4go"
+    },
+    {
+      "data": [],
+      "id": "r6JvdboUJXo"
+    },
+    {
+      "data": [],
+      "id": "lzz2MSw2iWk"
+    },
+    {
+      "data": [],
+      "id": "Mh7o4wnigHM"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        }
+      ],
+      "id": "xLBKOakK-TQ"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        }
+      ],
+      "id": "oj43urgQCAc"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        }
+      ],
+      "id": "UFIoLuUgOjI"
+    },
+    {
+      "data": [],
+      "id": "Y7mpxB72pLI"
+    },
+    {
+      "data": [],
+      "id": "7z3_Az2ewB0"
+    },
+    {
+      "data": [],
+      "id": "qa5JVCb9mTo"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        }
+      ],
+      "id": "xQP22jyOaW4"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        }
+      ],
+      "id": "xtFzAZlPXdY"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 2,
+          "price": 208.73
+        }
+      ],
+      "id": "Bf5ux71kXP8"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 2,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 3,
+          "price": 208.73
+        }
+      ],
+      "id": "oSbwh3m6vYo"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 3,
+          "price": 208.73
+        }
+      ],
+      "id": "X5TxJo1tnwA"
+    },
+    {
+      "data": [],
+      "id": "iH-aoME4ujE"
+    },
+    {
+      "data": [],
+      "id": "6UUhc10AMHI"
+    },
+    {
+      "data": [],
+      "id": "PoJOcmW7KUk"
+    },
+    {
+      "data": [
+        {
+          "id": "9",
+          "quantity": 1,
+          "price": 67.72
+        },
+        {
+          "id": "10",
+          "quantity": 1,
+          "price": 208.73
+        }
+      ],
+      "id": "slpXgopxEkg"
+    }
+  ],
+  "addresses": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}

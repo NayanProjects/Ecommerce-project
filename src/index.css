@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap');
+@import "tailwindcss";
+
+
+
+button:hover{
+  scale: 0.98;
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+.search {
+  display: flex;
+  align-items: center;
+  max-width: 340px;
+  width: 100%;
+  height: 42px;
+  border:1px solid #E5E7EB;
+  background-color: #F8FAFC;
+  border-radius: 21px;
+ 
+  font: 13px;
+}
+.search2 {
+  display: flex;
+  align-items: center;
+  /* max-width: 450px; */
+  width: 100%;
+  height: 42px;
+  border:1px solid #E5E7EB;
+  background-color: #F8FAFC;
+  border-radius: 14px;
+ 
+  font: 13px;
+}
+.active{
+  color:#2563EB;
+}
+.navlink:hover{
+  color: #2563EB;
+}
+.hero-label {
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.hero-title {
+  font-family: "Playfair Display", serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #111827;
+}
+.sale-badge {
+  background: #f01f1f;
+  color: #FFFFFF;
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.sale-text {
+  color:  white;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background-color:  #294936;
+}
+*{
+  box-sizing: border-box;
+}
+::-webkit-scrollbar{
+  display: none;
+}
+.shadowss{
+  box-shadow: 0px 4px 0px 4px black;
+}
+.shadow1{
+  box-shadow: 0 2px 8px rgba(17, 24, 39, 0.08);
+}
+.product-card {
+  background: #FFFFFF;
+  border: 1px solid #E5E7EB;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(17, 24, 39, 0.08);
+  transition: 0.2s ease;
+}
+
+.product-card:hover {
+  box-shadow: 0 6px 18px rgba(17, 24, 39, 0.12);
+}
+.product-card1{
+  background: #FFFFFF;
+  border: 1px solid #E5E7EB;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(17, 24, 39, 0.08);
+  transition: 0.2s ease;
+}
+.product-card1:hover {
+  box-shadow: 0 6px 18px rgba(17, 24, 39, 0.12);
+}
+.borders{
+   border: 1px solid #E5E7EB;
+}
+.fborders{
+  box-shadow: 0 2px 8px 4px rgba(135, 135, 136, 0.08);
+}
+.footerbox{
+ font-family: "Inter", sans-serif;
+}
+
+.cproduct-card {
+  border: 1px solid #E5E7EB;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(17, 24, 39, 0.08);
+  transition: 0.2s ease;
+}
+
+.cproduct-card:hover {
+  box-shadow: 0 6px 18px rgba(17, 24, 39, 0.12);
+}
+@media (max-width: 440px) {
+
+  .hero-title {
+  font-family: "Playfair Display", serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1;
+  color: #111827;
+}
+.hero-label {
+  font-family: "Inter", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+}
+
+.slidebox{
+  overflow: hidden;
+}
+
+
